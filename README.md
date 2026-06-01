@@ -1,18 +1,8 @@
-<!-- Header Banner -->
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗██████╗ ███████╗███████╗██████╗
-██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗
-███████║███████║██████╔╝██╔████╔██║███████║██╔██╗ ██║██║  ██║█████╗  █████╗  ██████╔╝
-██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║██║  ██║██╔══╝  ██╔══╝  ██╔═══╝
-██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝███████╗███████╗██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝╚═╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Harmandeep%20Singh&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20in%20the%20Making&descAlignY=60&descColor=000000)
 
-### `> Full-Stack Developer in the Making`
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+LPU+%F0%9F%8E%93;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Projects+%7C+Breaking+Things+%7C+Learning+%F0%9F%94%A5;Open+to+Collabs+%26+Internships+%F0%9F%A4%9D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+LPU+%F0%9F%8E%93;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Projects+%7C+Breaking+Things+%7C+Learning+%F0%9F%94%A5;Open+to+Collabs+%26+Internships+%F0%9F%A4%9D)
 
 </div>
 
@@ -20,7 +10,7 @@
 
 ```bash
 $ whoami
-> harmandeep_singh
+> harman-singh08
 
 $ cat about.txt
 ┌─────────────────────────────────────────────────────┐
@@ -110,11 +100,11 @@ class HarmandeepSingh:
 
 <div align="center">
 
-![Harmandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harmandeepsingh&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
+<img src="https://github-readme-stats.vercel.app/api?username=harman-singh08&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmandeepsingh&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-singh08&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harmandeepsingh&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+<img src="https://streak-stats.demolab.com?user=harman-singh08&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
@@ -128,9 +118,9 @@ $ ping harmandeep --all-channels
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-harmandeepsingh-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harmandeepsingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harmandeep%20Singh-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harmandeepsingh)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-harman--singh08-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harman-singh08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harmandeep%20Singh-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harman-singh08)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harmandeepsinghryy@gmail.com)
 
 </div>
 
@@ -151,7 +141,7 @@ $ ping harmandeep --all-channels
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=harmandeepsingh&color=00ff41&style=flat-square&label=PROFILE+VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=harman-singh08&color=00ff41&style=flat-square&label=PROFILE+VISITORS)
 
 ```
 ╔══════════════════════════════════════════════════╗
@@ -162,4 +152,7 @@ $ ping harmandeep --all-channels
 
 *⭐ If you like what I'm building, give a star to my repos!*
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer)
+
 </div>
+
