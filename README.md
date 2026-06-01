@@ -100,11 +100,11 @@ class HarmandeepSingh:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harman-singh08&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+<img src="https://github-readme-stats.vercel.app/api?username=harman-singh08&show_icons=true&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true&cache_seconds=1800" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-singh08&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-singh08&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=ffffff&cache_seconds=1800" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=harman-singh08&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://streak-stats.demolab.com?user=harman-singh08&theme=matrix&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=ffffff&sideLabels=ffffff&sideNums=ffffff" height="180"/>
 
 </div>
 
@@ -155,4 +155,3 @@ $ ping harmandeep --all-channels
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer)
 
 </div>
-
