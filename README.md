@@ -17,8 +17,8 @@ $ cat about.txt
 │  Name    : Harmandeep Singh                         │
 │  Role    : Full-Stack Dev (Learning Mode: ON)       │
 │  School  : Lovely Professional University           │
-│  Year    : B.Tech CSE — 1st Year                   │
-│  Status  : 🟢 Available for Collabs & Internships  │
+│  Year    : B.Tech CSE — 1st Year                    │
+│  Status  :🟢Available for Collabs & Internships    │
 │  Mission : Build. Break. Learn. Repeat.             │
 └─────────────────────────────────────────────────────┘
 ```
